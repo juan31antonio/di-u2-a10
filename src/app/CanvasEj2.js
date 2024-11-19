@@ -5,7 +5,7 @@ import Box from './Box.js';
 
 const initialPosition = {
   x: 0,
-  y: 0
+  y: 400
 };
 
 export default function Canvas() {
@@ -13,7 +13,7 @@ export default function Canvas() {
     color: 'orange',
     position: {
       x:0,
-      y:0
+      y:400
     }
   });
 
